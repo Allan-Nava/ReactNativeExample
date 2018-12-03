@@ -1,5 +1,5 @@
 # Example Documentation
 
-``bash
+```bash
 react-native run-ios
 ```
