@@ -17,7 +17,7 @@
   "devDependencies": {
     "babel-jest": "24.0.0",
     "jest": "24.0.0",
-    "metro-react-native-babel-preset": "0.50.0",
+    "metro-react-native-babel-preset": "0.77.0",
     "react-test-renderer": "16.6.1"
   },
   "jest": {
